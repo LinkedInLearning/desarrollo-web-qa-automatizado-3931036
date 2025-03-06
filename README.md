@@ -41,7 +41,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/desarrollo-web-control-de-calidad-automatizado-22425901
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFzWsIWlV3uzA/learning-public-crop_675_1200/B4EZVq8rdPH0Ac-/0/1741256046735?e=2147483647&v=beta&t=ptDPFQDao8unJGePqiWsD6Mv0lQUXcz85M1iyO93p-w
 
 [1]: # (End of ES-Instruction ###############################################################################################)
